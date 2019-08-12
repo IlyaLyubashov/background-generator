@@ -1,5 +1,4 @@
 function changeGradient(event){
-	console.log("i'm here")
 	var newColor = this.value;
 	if(event.target.name==="color1")
 		color1 = newColor;
